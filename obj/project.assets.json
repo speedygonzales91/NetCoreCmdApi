@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\molnar.zsolt\\Projects\\CmdApi\\CmdApi.csproj",
+      "projectUniqueName": "C:\\Users\\molnar.zsolt\\Projects\\NetCoreCmdApi\\CmdApi.csproj",
       "projectName": "CmdApi",
-      "projectPath": "C:\\Users\\molnar.zsolt\\Projects\\CmdApi\\CmdApi.csproj",
+      "projectPath": "C:\\Users\\molnar.zsolt\\Projects\\NetCoreCmdApi\\CmdApi.csproj",
       "packagesPath": "C:\\Users\\molnar.zsolt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\molnar.zsolt\\Projects\\CmdApi\\obj\\",
+      "outputPath": "C:\\Users\\molnar.zsolt\\Projects\\NetCoreCmdApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\molnar.zsolt\\AppData\\Roaming\\NuGet\\NuGet.Config",
